@@ -1,5 +1,25 @@
-title: Ssegawa John Brian
-#logo: 
-#description:
-show_downloads: true
-theme: jekyll-theme-cayman
+title: "Ssegawa John Brian"
+description: "Data Scientist & Econometrician Portfolio"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
+
+collections:
+  posts:
+    output: true
+
