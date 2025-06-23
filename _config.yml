@@ -1,6 +1,6 @@
 title: "Ssegawa John Brian"
 description: "Data Scientist & Econometrician Portfolio"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
