@@ -1,6 +1,6 @@
 ---
 title: Ssegawa John Brian
-layout: default
+layout: none
 ---
 
 <style>
