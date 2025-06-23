@@ -33,7 +33,7 @@ layout: default
 
 ## 👋 Welcome
 
-I'm a data scientist and econometrician passionate about solving problems using statistical models and machine learning.
+I'm an econometrician and data scientist passionate about solving problems using statistical models and machine learning.
 
 ---
 
